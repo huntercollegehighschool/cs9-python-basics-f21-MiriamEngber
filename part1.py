@@ -2,7 +2,7 @@
 ______
 PART 1
 ______
-The program below currently asks the user to enter input two numbers and then prints the sum. 
+The program below currently asks the user to enter input two numbers and then prints the sum.  
 Change the code so that it asks the user to enter five numbers and finds then prints the sum 
 of those five numbers in the formatted sentence that's already there.
 
